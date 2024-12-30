@@ -9,9 +9,9 @@ A clean and user-friendly ToDo application built with HTML, CSS and JavaScript. 
 
 ## Installation
 1. Clone the repository
-   `git clone [link]`
+   `git clone https://github.com/ayushtwo8/simple-todo-app.git`
 2. Navigate to the project directory
-   `cd todo-app`
+   `cd simple-todo-app`
 3. Open index.html in your browser
    - Double click the html file
    - Or use a local server like Live Server in VSCode
